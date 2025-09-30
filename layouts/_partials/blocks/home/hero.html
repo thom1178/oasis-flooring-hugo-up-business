@@ -1,0 +1,28 @@
+<section id="hero" class="relative hero py-0 min-h-[60vh] xl:min-h-[80vh]">
+  <div class="absolute inset-0">
+    {{ with .image }}
+      {{ partial "utilities/image" (dict "src" . "class" "size-full object-cover object-center absolute inset-0") }}
+    {{ end }}
+    <div class="absolute inset-0 bg-black/40"></div>
+  </div>
+
+  <div class="relative z-10">
+    <div class="container mx-auto px-4 py-16">
+      <div class="max-w-3xl">
+        {{ with .title }}
+          <h1 class="title text-5xl font-bold text-white xl:text-7xl">{{ . | safeHTML }}</h1>
+        {{ end }}
+        {{ with .text }}
+          <p class="mt-6 text-white/90 xl:text-lg">{{ . }}</p>
+        {{ end }}
+        {{ with .buttons }}
+          <div class="mt-8 flex flex-col gap-4 sm:flex-row">
+            {{ range . }}
+              {{ partial "components/button/primary" (dict "label" .label "href" .link) }}
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,10 +1,10 @@
 enable: true
 
-title: "**Level up** with Oasis Flooring"
+title: "Level up with Oasis Flooring"
 text: "Transform your space with expert flooring solutions. From installation to maintenance, we deliver quality that stands the test of time."
 
 buttons:
   - label: "Let's talk"
-    link: ""
+    link: "https://www.facebook.com/profile.php?id=61574796216837"
 
-image: "oasis-images/bryan.jpg"
+image: "images/stock-images/pexels-pixabay-269063.jpg"
