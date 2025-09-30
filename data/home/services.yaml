@@ -3,21 +3,21 @@ enable: true
 title: "Our main services"
 text: "We specialize in a wide range of flooring solutions including hardwood, tile, vinyl, carpet, and epoxy flooring. Our expert team delivers professional installation and exceptional results for every project."
 cards:
-  - image: "oasis-images/tile.jpg"
+  - image: "images/stock-images/pexels-bidvine-517980-1249611.jpg"
     title: "Tile Flooring"
     text: " "
     button:
       label: "Learn more"
       link: "#"
 
-  - image: "oasis-images/shower.jpg"
-    title: "Shower Updates"
+  - image: "images/stock-images/pexels-pixabay-280232.jpg"
+    title: "Full kitchen updates"
     text: " "
     button:
       label: "Learn more"
       link: "#"
 
-  - image: "oasis-images/commercial.jpg"
+  - image: "images/stock-images/pexels-clickerhappy-1388944.jpg"
     title: "Commercial Flooring"
     text: " "
     button:
