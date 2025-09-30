@@ -1,38 +1,35 @@
 enable: true
 
 items:
-  - image: "images/portfolio-ecommerce.png"
+  - image: "oasis-images/488253899_122100654818826540_6514535138419956055_n.jpg"
     pretitle: "Portfolio Service"
     title: "Flooring Installation"
     text: "Random text 1"
 
     buttons: 
-      - label: "See live"
-        link: "#"
+      - label: "Contact Us"
+        link: "https://www.facebook.com/profile.php?id=61574796216837"
 
-      - label: "Read more"
-        link: "#"
+  # - image: "oasis-images/488253899_122100654818826540_6514535138419956055_n.jpg"
+  #   pretitle: "Portfolio Service"
+  #   title: "Flooring Maintenance"
+  #   text: "Random text 2"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "Flooring Maintenance"
-    text: "Random text 2"
+  #   buttons: 
+  #     - label: "See live"
+  #       link: "#"
 
-    buttons: 
-      - label: "See live"
-        link: "#"
+  #     - label: "Read more"
+  #       link: "#"
 
-      - label: "Read more"
-        link: "#"
+  # - image: "oasis-images/488253899_122100654818826540_6514535138419956055_n.jpg"
+  #   pretitle: "Portfolio Service"
+  #   title: "Flooring Repair"
+  #   text: "Random text 3"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "Flooring Repair"
-    text: "Random text 3"
+  #   buttons: 
+  #     - label: "See live"
+  #       link: "#"
 
-    buttons: 
-      - label: "See live"
-        link: "#"
-
-      - label: "Read more"
-        link: "#"
+  #     - label: "Read more"
+  #       link: "#"
