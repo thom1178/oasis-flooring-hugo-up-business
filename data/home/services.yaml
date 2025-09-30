@@ -1,25 +1,25 @@
 enable: true
 
 title: "Our main services"
-text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+text: "We specialize in a wide range of flooring solutions including hardwood, tile, vinyl, carpet, and epoxy flooring. Our expert team delivers professional installation and exceptional results for every project."
 cards:
-  - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+  - image: "oasis-images/tile.jpg"
+    title: "Tile Flooring"
+    text: " "
     button:
       label: "Learn more"
       link: "#"
 
-  - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+  - image: "oasis-images/shower.jpg"
+    title: "Shower Updates"
+    text: " "
     button:
       label: "Learn more"
       link: "#"
 
-  - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+  - image: "oasis-images/commercial.jpg"
+    title: "Commercial Flooring"
+    text: " "
     button:
       label: "Learn more"
       link: "#"

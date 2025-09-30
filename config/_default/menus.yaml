@@ -24,23 +24,23 @@ buttons:
     url: "/#"
     weight: 5
 
-# footer:
-#   - name: "Home"
-#     url: "/#hero"
-#     weight: 1
+footer:
+  - name: "Home"
+    url: "/#hero"
+    weight: 1
 
-#   - name: "How we work"
-#     url: "/#"
-#     weight: 2
+  - name: "How we work"
+    url: "/#"
+    weight: 2
 
-#   - name: "Our team"
-#     url: "/#"
-#     weight: 3
+  - name: "Our team"
+    url: "/#"
+    weight: 3
 
-#   - name: "Pricing"
-#     url: "/#"
-#     weight: 4
+  - name: "Pricing"
+    url: "/#"
+    weight: 4
 
-#   - name: "Blog"
-#     url: "/blog"
-#     weight: 5
+  - name: "Blog"
+    url: "/blog"
+    weight: 5

@@ -1,7 +1,7 @@
 enable: true
 
 title: "Start your flooring now!"
-image: "images/services-web-development.png"
+# image: "images/services-web-development.png"
 button:
   label: "Let's talk"
-  link: "#"
+  link: "https://www.facebook.com/profile.php?id=61574796216837"
