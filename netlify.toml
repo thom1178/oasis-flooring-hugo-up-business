@@ -1,8 +1,8 @@
 [build]
   publish = "public"
-  command = "hugo"
+  command = "npm install && hugo"
 
 [build.environment]
-  HUGO_VERSION = "0.117.0" # replace with your Hugo version
+  HUGO_VERSION = "0.117.0"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
