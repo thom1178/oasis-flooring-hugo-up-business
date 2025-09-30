@@ -10,7 +10,16 @@
     <div class="container mx-auto px-4">
       <div class="max-w-3xl">
         {{ with .title }}
-          <h1 class="title text-5xl font-bold text-white xl:text-7xl">{{ . | safeHTML }}</h1>
+          <h1 class="title text-5xl font-bold text-secondary xl:text-7xl">
+            {{- $parts := split . "**" -}}
+            {{- range $index, $part := $parts -}}
+              {{- if modBool $index 2 -}}
+                <span class="text-white">{{ $part }}</span>
+              {{- else -}}
+                {{ $part }}
+              {{- end -}}
+            {{- end -}}
+          </h1>
         {{ end }}
         {{ with .text }}
           <p class="mt-6 text-white/90 xl:text-lg">{{ . }}</p>
