@@ -37,10 +37,10 @@ footer:
     url: "/#"
     weight: 3
 
-  - name: "Pricing"
-    url: "/#"
-    weight: 4
+  # - name: "Pricing"
+  #   url: "/#"
+  #   weight: 4
 
-  - name: "Blog"
-    url: "/blog"
-    weight: 5
+  # - name: "Blog"
+  #   url: "/blog"
+  #   weight: 5
