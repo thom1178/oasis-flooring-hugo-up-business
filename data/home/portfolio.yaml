@@ -3,8 +3,8 @@ enable: true
 items:
   - image: "images/portfolio-ecommerce.png"
     pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    title: "Flooring Installation"
+    text: "Random text 1"
 
     buttons: 
       - label: "See live"
@@ -15,8 +15,8 @@ items:
 
   - image: "images/portfolio-ecommerce.png"
     pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    title: "Flooring Maintenance"
+    text: "Random text 2"
 
     buttons: 
       - label: "See live"
@@ -27,8 +27,8 @@ items:
 
   - image: "images/portfolio-ecommerce.png"
     pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    title: "Flooring Repair"
+    text: "Random text 3"
 
     buttons: 
       - label: "See live"
